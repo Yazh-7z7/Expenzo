@@ -78,13 +78,13 @@ Support attaching receipts or other relevant documents to expense entries.
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+  git clone https://github.com/Yazh-7z7/Expenzo
 ```
 
 Go to the project directory
 
 ```bash
-  cd Expense-Tracker-App
+  cd Expenzo
 ```
 
 Go to the frontend directory and Install dependencies
